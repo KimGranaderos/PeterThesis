@@ -16,7 +16,7 @@
     <v-toolbar dark fixed app>
       <v-toolbar-side-icon @click.stop="sideNav = !sideNav"></v-toolbar-side-icon>
       <v-toolbar-title>
-        <router-link to="/" tag="span" style="cursor: pointer">Logo ni diri?</router-link>
+      Welcome SuperUser!
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-toolbar-items>
